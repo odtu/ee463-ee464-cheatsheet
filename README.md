@@ -1,6 +1,6 @@
 # EE463 Cheat Sheet
 
-This repo holds the LaTeX document that you will use as a cheatsheet in the exam.
+This repo holds the [LaTeX](https://www.latex-project.org/) document that you will use as a cheatsheet in the exam.
 You are free to modify the cheatsheet as you wish, and all students are encouraged to contribute. 
 
 Here are a few rules:
