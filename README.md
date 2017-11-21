@@ -7,7 +7,7 @@ Here are a few rules:
 
 - All students will use the same cheat sheet. No other documents will be allowed.
 - Cheat sheet will be one page (single side) A-4 document.
-- The latest version of the .tex file in the "master" branch will be compiled at 09:30, Tuesday 28th of November, and the PDF output will be distributed in the exam. 
+- The latest version of the .tex file in the "master" branch will be compiled at 09:30, Tuesday 28th of November, and the first page of the PDF output will be distributed in the exam. 
 
 A few hints:
 
@@ -18,7 +18,9 @@ A few hints:
 - Here are a few links to let you compile .tex files online, alternatively you can install a local [LaTeX compiler](https://www.tug.org/begin.html).
     - [Overleaf](https://www.overleaf.com/) (probably the best option)
     - [Authorea](https://www.authorea.com/) (Another online compiler)
-    - [LaTeX Cloud Compiler](https://latexonline.cc/)
     - [Online compiler](http://manuels.github.io/texlive.js)
     - [Quick equation compiler](http://www.hostmath.com/)
+    - [From drawing to LaTeX](http://detexify.kirelabs.org/classify.html)
+    - [LaTeX Cloud Compiler](https://latexonline.cc/)
+
 - If you have any problems, Google is your friend.
