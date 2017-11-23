@@ -1,27 +1,20 @@
-\documentclass[twocolumn]{article}
+\documentclass[twocolumn, ]{article}
 \usepackage{amsmath}
-
-
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=10mm,
+ top=10mm,
+ }
+ \usepackage{setspace}
+\setstretch{0.3}
 
 \begin{document}
-\section{Cheat Sheet for EE463}
 
-\subsection{ Pythagorean theorem}
+\section{\small Cheat Sheet for EE463}
 
-The well known Pythagorean theorem \(x^2 + y^2 = z^2\) was 
-proved to be invalid for other exponents. 
-Meaning the next equation has no integer solutions:
- 
-$$ x^n + y^n = z^n $$
-
-
-\subsection{ Examples}
-
-$$x=\frac{1+y}{1+2z^2}$$
-
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$
-$$V_{av}=\frac{\sqrt{6}*3*V_{d}}{\pi }-\frac{3wL_{s}I_{d}}{\pi }$$
-$$V_{av}(\alpha)=\frac{\sqrt{6}*3*V_{d}}{\pi }-\frac{\sqrt{6}*3*V_{d}}{\pi }*(1-\cos(\alpha))$$
+\subsection{ \small Trigonometric }
 
 \begin{align*}
           \sin A \cos B &= \frac{1}{2}\left[ \sin(A-B)+\sin(A+B) \right] \\
@@ -29,6 +22,24 @@ $$V_{av}(\alpha)=\frac{\sqrt{6}*3*V_{d}}{\pi }-\frac{\sqrt{6}*3*V_{d}}{\pi }*(1-
           \cos A \cos B &= \frac{1}{2}\left[ \cos(A-B)+\cos(A+B) \right] \\         
 \end{align*}
 
+\subsection{\small Diode}
+
+\textit{Full Bridge Rectifier Average Output $V_{s}$:rms value of source voltage}
+\begin{equation*}
+ 	V_{av}=\frac{3 \sqrt{6} V_{s}}{\pi }}-\frac{3wL_{s}I_{d}}{\pi }
+\end{equation*}
+
+\subsection{\small Thyristor}
+\textit{$\alpha$ : firing angle}
+
+\begin{equation*}
+	V_{av}(\alpha)=\frac{3 \sqrt{6} V_{d}}{\pi }-\frac{ 3 \sqrt{6} V_{d}}{\pi }\cdot (1-\cos(\alpha))
+\end{equation*}
+
+\textit{At the output $I_{d}$}
+\begin{equation*}
+	\cos(\alpha + u)=\cos(\alpha)-\dfrac{2\omega L_{s} I_{d}}{\sqrt[]{2}V_{s}}
+\end{equation*}
 
 
 
