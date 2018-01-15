@@ -1,6 +1,7 @@
 \documentclass[twocolumn, ]{article}
 \usepackage{amsmath}
 \usepackage{graphicx}
+
 \usepackage{geometry}
  \geometry{
  a4paper,
@@ -161,8 +162,15 @@ Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
 
 \end{itemize}
 
+\subsection*{Converter}
+\begin{figure}[!ht]
+	\includegraphics[scale=0.25]{inverter.png}
+	\caption{Inverter Waveforms}
+\end{figure}
 
-\subsection*{ \small Trigonometric }
+
+
+\subsection*{  Trigonometric }
 
 \begin{align*}
           \sin A \cos B &= \frac{1}{2}\left[ \sin(A-B)+\sin(A+B) \right] \\
@@ -182,6 +190,7 @@ Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
 	\includegraphics[scale=0.35]{Fourier.png}
 	\caption{Fourier Transform Table}
 \end{figure}
+
 \subsection*{\small Power Flow}
 \begin{equation*}
 	\ P=V_{s}I_{s1}cos(\phi)=V_{d}I_{d}\\	
@@ -194,47 +203,18 @@ Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
 	\includegraphics[scale=0.3]{buck_boost.jpg}
 \end{figure}
 
-\begin{figure}
-	\includegraphics[scale=0.6]{heat}
+\begin{figure}[!ht]
+	\includegraphics[scale=0.7]{bla}
 \end{figure}
 
-\subsection*{\small Thermal \& Filter }
-\begin{itemize}
-\item {Convection Thermal Resistance}
-\begin{equation*}
-R_c=\frac{1}{Ah}
-\end{equation*}
+\begin{figure}[!ht]
+	\includegraphics[scale=0.9]{bla2}
+\end{figure}
 
-\item {Fluid Temperature Rise}
-\begin{equation*}
-\Delta T=\frac{P}{Q d C_p}
-\end{equation*}
 
-\item {Heat Loss}
-\par
-\textit{Conduction}
+$$ V_{ripplebuck}=V_o (1-D) {(\dfrac{f_c}{f_s})}^2 \pi^2 /2 $$ \hspace{0.2 cm} $$I_{ob}=T_s V_o  D (1-D)^2 /{2L} $$
 
-\begin{equation*}
-P=\frac{\Delta T}{R}
-\end{equation*}
-\par
-\textit{Radiation}
-\par
-\textit{$q_R$ : Radiation heat flow ($W/m^2$)}
-\begin{equation*}
-q_R=\rho\epsilon F((T_1)^4-(T_2)^4)
-\end{equation*}
 
-\item{LC Filter}
-\textit{Undamped:}
-\begin{equation*}
-f_o=\frac{1}{2\pi \sqrt{LC}}
-\end{equation*}
-\textit{Damping factor:}
-\begin{equation*}
-\zeta=\frac{L}{2R\sqrt{LC}}
-\end{equation*}
 
-\end{itemize}
 
 \end{document}
