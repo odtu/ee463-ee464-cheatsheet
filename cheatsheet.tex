@@ -118,6 +118,51 @@ Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
 
 \end{itemize}
 
+\subsection*{\small Three Phase Controlled Rectifiers-Thyristors}
+
+\begin{itemize}
+\item {Idealized Circuit} $\alpha$ : firing angle
+
+\begin{equation*}
+	V_{av}(\alpha)=\frac{3 \sqrt{2} V_{LL}}{\pi } \cdot \cos{\alpha}
+\end{equation*}
+
+\item {Effect of Ls}
+
+\begin{equation*}
+	\cos(\alpha + u)=\cos(\alpha)-\dfrac{2\omega L_{s} I_{d}}{\sqrt[]{2}V_{LL}}
+\end{equation*}
+
+\begin{equation*}
+	V_d = \frac{3\sqrt{2}}{\pi} V_{LL} cos(\alpha) - \dfrac{3\omega L_s I_d}{\pi} \\
+\end{equation*}
+
+\item {Output Waveforms}
+\begin{figure}[!ht]
+	\includegraphics[scale=0.45]{3phwave1.png}
+	\caption{Output Voltage Waveforms}
+\end{figure}
+
+\begin{figure}[!ht]
+	\includegraphics[scale=0.25]{comm.png}
+	\caption{Effect of Commutation}
+\end{figure}
+
+\begin{figure}[!ht]
+	\includegraphics[scale=0.25]{dcm.png}
+	\caption{Discontinuous Current Conduction Mode}
+\end{figure}
+
+\begin{figure}[!ht]
+	\includegraphics[scale=0.25]{inverter.png}
+	\caption{Inverter Waveforms}
+\end{figure}
+
+
+\end{itemize}
+
+
+
 
 \subsection*{ \small Trigonometric }
 
@@ -136,7 +181,7 @@ Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
 	\sin^2(A)=\frac{1}{2}-\frac{\cos(2A)}{2}
 \end{equation*}
   \begin{figure}[!ht]
-	\includegraphics[scale=0.45]{Fourier.png}
+	\includegraphics[scale=0.35]{Fourier.png}
 	\caption{Fourier Transform Table}
 \end{figure}
 \subsection*{\small Power Flow}
@@ -148,6 +193,7 @@ Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
 \end{equation*}
 
 \begin{figure}[!ht]
-\includegraphics[width=11cm, height=5cm]{3-PHASE-WAVE-FORM-small-150.jpg} 
+	\includegraphics[scale=0.3]{buck_boost.jpg}
 \end{figure}
+
 \end{document}
