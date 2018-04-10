@@ -41,196 +41,30 @@ THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 
 
 
-\subsection*{\small Single Phase Diode Rectifier}
-
-\begin{equation*}
-	V_{av}=\dfrac{2 \sqrt{2}V_{s}} { \pi}
-\end{equation*}
-
-\textit {u: commutation period}
-\begin{equation*}
- 	\cos(u)=1-\dfrac{2\omega L_{s} I_{d}}{\sqrt[]{2}V_{s}}
-\end{equation*}
-
-\begin{equation*}
- 	I_{d,avg}= \dfrac{\int_b^f i(\theta) d \theta}{\pi}
-\end{equation*}
-
-\begin{equation*}
- 	I_{d,short circuit} = \dfrac{V_s}{\omega L_s}
-\end{equation*}
-
-\begin{figure}[!ht]
-	\includegraphics[scale=0.3]{avcur}
-	\caption{Characteristics of source current wrt w*Ls (battery on load side)}
-\end{figure}
-
-\subsection*{\small Three Phase  Rectifier}
-
-\begin{itemize}
-
-
-
-\item \textbf{Half Wave} 
-\begin{equation*}
-	V_{av}=\dfrac{3 \sqrt{6}V_{s}} {2 \pi}
-\end{equation*}
-Crossing points (integration) on the waves are from $\pi /6$ to $5 \pi /6$
-
- 
-
-\item \textbf{Full Wave} 
-
-\textit{Full Bridge Rectifier Average Output $V_{s}$:rms value of source voltage}
-\begin{equation*}
- 	V_{av}=\frac{3 \sqrt{6} V_{s}}{\pi }-\frac{3wL_{s}I_{d}}{\pi }
-\end{equation*}
-
-
-
-
-
-\end{itemize}
-
-
-\subsection*{\small Single Phase Controlled Rectifiers-Thyristors}
-
-\begin{itemize}
-\item {Idealized Circuit} $\alpha$ : firing angle
-
-\begin{equation*}
-	V_{av}(\alpha)=\frac{2 \sqrt{2} V_{d}}{\pi } \cdot \cos{\alpha}
-\end{equation*}
-
-\item {Effect of Ls}
-
-\begin{equation*}
-	\cos(\alpha + u)=\cos(\alpha)-\dfrac{2\omega L_{s} I_{d}}{\sqrt[]{2}V_{s}}
-\end{equation*}
-
-\begin{equation*}
-	V_d = 0.9 V_s cos(\alpha) - \dfrac{2\omega L_s I_d}{\pi} \\
-\end{equation*}
-
-\item {Inverter Mode}
-
-\begin{equation*}
-	Extinction Angle = \\\gamma = 180 - (\alpha + u)\\
-\end{equation*}
-
-
-\end{itemize}
-
-\subsection*{\small Three Phase Controlled Rectifiers-Thyristors}
-
-\begin{itemize}
-\item {Idealized Circuit} $\alpha$ : firing angle
-
-\begin{equation*}
-	V_{av}(\alpha)=\frac{3 \sqrt{2} V_{LL}}{\pi } \cdot \cos{\alpha}
-\end{equation*}
-
-\item {Effect of Ls}
-
-\begin{equation*}
-	\cos(\alpha + u)=\cos(\alpha)-\dfrac{2\omega L_{s} I_{d}}{\sqrt[]{2}V_{LL}}
-\end{equation*}
-
-\begin{equation*}
-	V_d = \frac{3\sqrt{2}}{\pi} V_{LL} cos(\alpha) - \dfrac{3\omega L_s I_d}{\pi} \\
-\end{equation*}
-
-\item {Output Waveforms}
-\begin{figure}[!ht]
-	\includegraphics[scale=0.45]{3phwave1.png}
-	\caption{Output Voltage Waveforms}
-\end{figure}
-
-\begin{figure}[!ht]
-	\includegraphics[scale=0.3]{comm.png}
-	\caption{Effect of Commutation}
-\end{figure}
-
-\begin{figure}[!ht]
-	\includegraphics[scale=0.27]{dcm.png}
-	\caption{Discontinuous Current Conduction Mode}
-\end{figure}
-
-\begin{figure}[!ht]
-	\includegraphics[scale=0.25]{inverter.png}
-	\caption{Inverter Waveforms}
-\end{figure}
-
-
-\end{itemize}
-
-\subsection*{  Trigonometric }
-
-\begin{align*}
-          \sin A \cos B &= \frac{1}{2}\left[ \sin(A-B)+\sin(A+B) \right] \\
-          \sin A \sin B &= \frac{1}{2}\left[ \cos(A-B)-\cos(A+B) \right] \\
-          \cos A \cos B &= \frac{1}{2}\left[ \cos(A-B)+\cos(A+B) \right] \\     
-\end{align*}  
-\begin{equation*}
-	  \cos A +\cos B = 2\cos(\frac{A+B}{2})\cos(\frac{A-B}{2})
-\end{equation*}
-\begin{equation*}
-	  \cos A -\cos B = -2\sin(\frac{A+B}{2})\sin(\frac{A-B}{2})
-\end{equation*}
-\begin{equation*}
-	\sin^2(A)=\frac{1}{2}-\frac{\cos(2A)}{2}
-\end{equation*}
   \begin{figure}[!ht]
-	\includegraphics[scale=0.35]{Fourier.png}
+	\includegraphics[scale=0.30]{Fourier.png}
 	\caption{Fourier Transform Table}
 \end{figure}
 
-\subsection*{\small Power Flow}
-\begin{equation*}
-	\ P=V_{s}I_{s1}cos(\phi)=V_{d}I_{d}\\	
-\end{equation*}
-\begin{equation*}
-	\ S=V_{s}I_{s}	
-\end{equation*}
-
 \begin{figure}[!ht]
-	\includegraphics[scale=0.3]{buck_boost.jpg}
+	\includegraphics[scale=0.20]{cuk_converter.png}
+	\caption{Cuk converter}
 \end{figure}
 
 \begin{figure}[!ht]
-	\includegraphics[scale=0.7]{bla}
+	\includegraphics[width=2.5in,height=1in]{sepic_operation.png}
+	\caption{Sepic converter}
+\end{figure}
 
-\includegraphics[scale=0.3]{topo}
-\hspace{0.2 cm}
-\includegraphics[scale=0.6]{posbb}
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{bipolar1.png}
+	\caption{Bipolar Switching}
 \end{figure}
 \begin{figure}[!ht]
-{BUCK :O}\\
-\includegraphics[scale=1.2]{buck.jpg}
- {BOOST ;)}\\
-\includegraphics[scale=1]{boost.jpg}\\
-
-\includegraphics[scale=1]{9.png}\\
-{BuCk BoOsT :D}\\
-\includegraphics[scale=1.4]{buckboost.jpg}\\
+	\includegraphics[width=2.5in,height=1in]{unipolar1.png}
+	\caption{Unipolar switching}
 \end{figure}
 
-
-$$ V_{ripple,buck}=V_o (1-D) {(\dfrac{f_c}{f_s})}^2 \dfrac{\pi^2 }{2} $$ 
-$$I_{ob}=\dfrac{T_s V_o  D (1-D)^2 }{2L} $$ 
-$$ V_{ripple,boost}=\dfrac{V_o D Ts}{RC}$$
-
-\subsection*{\small Thermal Model}
-\begin{figure}[!ht]
-\hspace{2cm}
-\includegraphics[scale=0.3]{thermal.png}
-\end{figure}
-
-\subsection*{\small Snubber Circuit}
-$$ fr=\dfrac{1}{2\pi \sqrt{LpCp}} $$
-$$ R=\sqrt{\dfrac{Li}{Ci}} $$
-$$ \dfrac{LpI^2}{V^2}<Cs<\dfrac{ton}{10R}$$
-$$ Pr=CsV^2fs $$
 
 
 
