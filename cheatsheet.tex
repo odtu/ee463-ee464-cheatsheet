@@ -16,22 +16,9 @@ bottom=5 mm,
 
 \begin{document}
 
-\section*{\small Cheat Sheet for EE463}
+\section*{\small Cheat Sheet for EE464}
 
 \subsection*{\small Performance Parameters}
-\begin{equation*}
-Form Factor=\frac{V_{rms}}{V_{avg}}
-\end{equation*}
-\begin{equation*}
-Crest Factor=\frac{V_{peak}}{V_{rms}}
-\end{equation*}
-\begin{equation*}
-Distortion Factor=\frac{I_{1rms}}{I_{rms}}
-\end{equation*}
-\textit{$\phi$ : phase difference between fundamentals of current and voltage}
-\begin{equation*}
-Displacement Power Factor=\cos(\phi)
-\end{equation*}
 \begin{equation*}
 True Power Factor=\frac{P}{S}=DPF \frac{I_{1,RMS}}{I_{RMS}}
 \end{equation*}
@@ -64,6 +51,21 @@ THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 	\includegraphics[width=2.5in,height=1in]{unipolar1.png}
 	\caption{Unipolar switching}
 \end{figure}
+
+\subsection*{Fourier Coefficients}
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=2in]{pwm_harmonics_table.png}
+	\caption{Harmonics}
+\end{figure}
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{unipolar_harmonics2.png}
+	\caption{Unipolar Harmonics}
+\end{figure}
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{bipolar_harmonics2.png}
+	\caption{Bipolar Harmonics}
+\end{figure}
+
 
 
 
