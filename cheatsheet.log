@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.3.15)  15 APR 2018 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.3.15)  15 APR 2018 17:51
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -319,11 +319,11 @@ Package pdftex.def Info: unipolar1.png used on input line 87.
 (pdftex.def)             Requested size: 180.67221pt x 43.35867pt.
 File: bipolar1.png Graphic file (type png)
  <use bipolar1.png>
-Package pdftex.def Info: bipolar1.png used on input line 103.
+Package pdftex.def Info: bipolar1.png used on input line 101.
 (pdftex.def)             Requested size: 180.67603pt x 72.26764pt.
 File: unipolar1.png Graphic file (type png)
  <use unipolar1.png>
-Package pdftex.def Info: unipolar1.png used on input line 107.
+Package pdftex.def Info: unipolar1.png used on input line 105.
 (pdftex.def)             Requested size: 180.67221pt x 72.26941pt.
  [1
 
@@ -340,7 +340,7 @@ Here is how much of TeX's memory you used:
  6166 multiletter control sequences out of 15000+200000
  8313 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,28p,238b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,5n,28p,238b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><
@@ -351,7 +351,7 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9
 e1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmti9.pfb>
-Output written on cheatsheet.pdf (2 pages, 395998 bytes).
+Output written on cheatsheet.pdf (2 pages, 392154 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
