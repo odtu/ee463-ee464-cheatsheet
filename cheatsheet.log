@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 11:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 12:02
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -277,12 +277,12 @@ Package pdftex.def Info: unipolar1.png  used on input line 48. on input line 48
 .
 Package pdftex.def Info: Requested size: 180.67221pt x 72.26941pt on input line
  48.
-<flybackformulasfromhart.png, id=6, 281.55188pt x 341.02406pt>
+<flybackformulasfromhart.png, id=6, 475.7775pt x 341.02406pt>
 File: flybackformulasfromhart.png Graphic file (type png)
 <use flybackformulasfromhart.png>
 Package pdftex.def Info: flybackformulasfromhart.png  used on input line 53. on
  input line 53.
-Package pdftex.def Info: Requested size: 180.67374pt x 144.54044pt on input lin
+Package pdftex.def Info: Requested size: 202.35884pt x 144.54044pt on input lin
 e 53.
 <forwardsingleswitch.png, id=7, 314.67563pt x 184.43906pt>
 File: forwardsingleswitch.png Graphic file (type png)
@@ -333,9 +333,9 @@ amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cheatsheet.pdf (1 page, 319138 bytes).
+Output written on cheatsheet.pdf (1 page, 339442 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
