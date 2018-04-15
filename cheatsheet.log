@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.26)  15 APR 2018 15:33
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -250,86 +250,103 @@ G,.JBIG2,.JB2,.eps]
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Fourier.png, id=1, 676.02562pt x 253.69781pt>
-File: Fourier.png Graphic file (type png)
-<use Fourier.png>
-Package pdftex.def Info: Fourier.png  used on input line 45. on input line 45.
-Package pdftex.def Info: Requested size: 202.80925pt x 76.10992pt on input line
- 45.
-<flybak_switch.png, id=2, 599.23875pt x 370.38374pt>
-File: flybak_switch.png Graphic file (type png)
-<use flybak_switch.png>
-Package pdftex.def Info: flybak_switch.png  used on input line 51. on input lin
-e 51.
-Package pdftex.def Info: Requested size: 179.77301pt x 111.11597pt on input lin
-e 51.
-<flybackformulasfromhart.png, id=4, 475.7775pt x 341.02406pt>
+<fouriert.png, id=1, 676.02562pt x 253.69781pt>
+File: fouriert.png Graphic file (type png)
+<use fouriert.png>
+Package pdftex.def Info: fouriert.png  used on input line 43. on input line 43.
+
+Package pdftex.def Info: Requested size: 180.67259pt x 72.26978pt on input line
+ 43.
+<flybackformulasfromhart.png, id=2, 475.7775pt x 341.02406pt>
 File: flybackformulasfromhart.png Graphic file (type png)
 <use flybackformulasfromhart.png>
-Package pdftex.def Info: flybackformulasfromhart.png  used on input line 67. on
- input line 67.
+Package pdftex.def Info: flybackformulasfromhart.png  used on input line 51. on
+ input line 51.
 Package pdftex.def Info: Requested size: 202.35884pt x 144.54044pt on input lin
-e 67.
-<forwardsingleswitch.png, id=5, 314.67563pt x 184.43906pt>
+e 51.
+<forwardsingleswitch.png, id=4, 314.67563pt x 184.43906pt>
 File: forwardsingleswitch.png Graphic file (type png)
 <use forwardsingleswitch.png>
-Package pdftex.def Info: forwardsingleswitch.png  used on input line 71. on inp
-ut line 71.
+Package pdftex.def Info: forwardsingleswitch.png  used on input line 55. on inp
+ut line 55.
 Package pdftex.def Info: Requested size: 144.54128pt x 93.95009pt on input line
- 71.
-<pushpull_someformulas.png, id=6, 276.28218pt x 131.74219pt>
+ 55.
+<pushpull_someformulas.png, id=5, 276.28218pt x 131.74219pt>
 File: pushpull_someformulas.png Graphic file (type png)
 <use pushpull_someformulas.png>
-Package pdftex.def Info: pushpull_someformulas.png  used on input line 75. on i
-nput line 75.
-Package pdftex.def Info: Requested size: 144.536pt x 72.27347pt on input line 7
-5.
-<sepicformulas.png, id=7, 307.90031pt x 231.86626pt>
+Package pdftex.def Info: pushpull_someformulas.png  used on input line 59. on i
+nput line 59.
+Package pdftex.def Info: Requested size: 144.536pt x 72.27347pt on input line 5
+9.
+<sepicformulas.png, id=6, 307.90031pt x 231.86626pt>
 File: sepicformulas.png Graphic file (type png)
 <use sepicformulas.png>
-Package pdftex.def Info: sepicformulas.png  used on input line 79. on input lin
-e 79.
+Package pdftex.def Info: sepicformulas.png  used on input line 63. on input lin
+e 63.
 Package pdftex.def Info: Requested size: 144.54402pt x 108.40753pt on input lin
-e 79.
-<cukformulas.png, id=8, 363.60844pt x 335.75438pt>
+e 63.
+<cukformulas.png, id=7, 363.60844pt x 335.75438pt>
 File: cukformulas.png Graphic file (type png)
 <use cukformulas.png>
-Package pdftex.def Info: cukformulas.png  used on input line 83. on input line 
-83.
+Package pdftex.def Info: cukformulas.png  used on input line 67. on input line 
+67.
 Package pdftex.def Info: Requested size: 158.99507pt x 122.85928pt on input lin
-e 83.
+e 67.
+<flybak_switch.png, id=8, 599.23875pt x 370.38374pt>
+File: flybak_switch.png Graphic file (type png)
+<use flybak_switch.png>
+Package pdftex.def Info: flybak_switch.png  used on input line 72. on input lin
+e 72.
+Package pdftex.def Info: Requested size: 180.66908pt x 72.26692pt on input line
+ 72.
 <fullandhalfinout.png, id=9, 250.68657pt x 88.83188pt>
 File: fullandhalfinout.png Graphic file (type png)
 <use fullandhalfinout.png>
-Package pdftex.def Info: fullandhalfinout.png  used on input line 87. on input 
-line 87.
+Package pdftex.def Info: fullandhalfinout.png  used on input line 77. on input 
+line 77.
 Package pdftex.def Info: Requested size: 115.6347pt x 57.81729pt on input line 
-87.
+77.
+<bipolar1.png, id=10, 613.29124pt x 507.8975pt>
+File: bipolar1.png Graphic file (type png)
+<use bipolar1.png>
+Package pdftex.def Info: bipolar1.png  used on input line 93. on input line 93.
+
+Package pdftex.def Info: Requested size: 180.67603pt x 72.26764pt on input line
+ 93.
+<unipolar1.png, id=11, 804.00375pt x 486.81876pt>
+File: unipolar1.png Graphic file (type png)
+<use unipolar1.png>
+Package pdftex.def Info: unipolar1.png  used on input line 97. on input line 97
+.
+Package pdftex.def Info: Requested size: 180.67221pt x 72.26941pt on input line
+ 97.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Fourier.png> <./flybak_
-switch.png> <./flybackformulasfromhart.png> <./forwardsingleswitch.png> <./push
-pull_someformulas.png> <./sepicformulas.png> <./cukformulas.png> <./fullandhalf
-inout.png>] (cheatsheet.aux) ) 
+{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fouriert.p
+ng> <./flybackformulasfromhart.png> <./forwardsingleswitch.png> <./pushpull_som
+eformulas.png> <./sepicformulas.png> <./cukformulas.png> <./flybak_switch.png> 
+<./fullandhalfinout.png> <./bipolar1.png> <./unipolar1.png>] (cheatsheet.aux) )
+ 
 Here is how much of TeX's memory you used:
- 2581 strings out of 493312
- 35813 string characters out of 3138899
- 104994 words of memory out of 3000000
- 6106 multiletter control sequences out of 15000+200000
- 5958 words of font info for 22 fonts, out of 3000000 for 9000
+ 2593 strings out of 493312
+ 35998 string characters out of 3138901
+ 105994 words of memory out of 3000000
+ 6115 multiletter control sequences out of 15000+200000
+ 6266 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,28p,279b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cheatsheet.pdf (1 page, 261794 bytes).
+ 41i,5n,28p,279b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pf
+b>
+Output written on cheatsheet.pdf (1 page, 376520 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

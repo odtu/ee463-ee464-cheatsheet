@@ -39,29 +39,13 @@ True Power Factor=\frac{P}{S}=DPF \frac{I_{1,RMS}}{I_{RMS}}
 THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 \end{equation*}
 
-
-
-  \begin{figure}[!ht]
-	\includegraphics[scale=0.30]{Fourier.png}
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{fouriert.png}
 	\caption{Fourier Transform Table}
 \end{figure}
 
 
-  \begin{figure}[!ht]
-	\includegraphics[scale=0.30]{flybak_switch}
-	\caption{Flyback switch considerations}
-\end{figure}
-
-\iffalse
-\begin{figure}[!ht]
-	\includegraphics[width=2.5in,height=1in]{bipolar1.png}
-	\caption{Bipolar Switching}
-\end{figure}
-\begin{figure}[!ht]
-	\includegraphics[width=2.5in,height=1in]{unipolar1.png}
-	\caption{Unipolar switching}
-\end{figure}
-\fi
+\subsubsection*{Converters}
 
 \begin{figure}[!ht]
 	\includegraphics[width=2.8in,height=2in]{flybackformulasfromhart.png}
@@ -83,6 +67,12 @@ THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 	\includegraphics[width=2.2in,height=1.7in]{cukformulas.png}
 	\caption{Cuk Converter Formulas}
 \end{figure}
+
+  \begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{flybak_switch}
+	\caption{Flyback switch considerations}
+\end{figure}
+
 \begin{figure}[!ht]
 	\includegraphics[width=1.6in,height=.8in]{fullandhalfinout.png}
 	\caption{Full and Half Bridge Relations}
@@ -92,6 +82,23 @@ THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 \begin{equation}
 Switch Utilization= \frac{Po}{Psw}=\frac{Io.Vo}{q.Vswmax.Iswmax}
 \end{equation}
+
+\subsubsection*{Inverters}
+
+$$ m_f=\dfrac{f_s}{f_1}, m_a=\dfrac{V_{control}}{V_{triangle}}$$
+$$m_a<1: linear, m_a>1: overmodulation$$
+
+
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{bipolar1.png}
+	\caption{Bipolar Switching}
+\end{figure}
+\begin{figure}[!ht]
+	\includegraphics[width=2.5in,height=1in]{unipolar1.png}
+	\caption{Unipolar switching}
+\end{figure}
+
+
 
 
 
