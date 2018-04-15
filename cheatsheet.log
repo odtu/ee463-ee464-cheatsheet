@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 12:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 12:38
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -298,31 +298,38 @@ Package pdftex.def Info: cukformulas.png  used on input line 83. on input line
 83.
 Package pdftex.def Info: Requested size: 158.99507pt x 122.85928pt on input lin
 e 83.
+<fullandhalfinout.png, id=9, 250.68657pt x 88.83188pt>
+File: fullandhalfinout.png Graphic file (type png)
+<use fullandhalfinout.png>
+Package pdftex.def Info: fullandhalfinout.png  used on input line 87. on input 
+line 87.
+Package pdftex.def Info: Requested size: 115.6347pt x 57.81729pt on input line 
+87.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Fourier.png> <./flybak_
 switch.png> <./flybackformulasfromhart.png> <./forwardsingleswitch.png> <./push
-pull_someformulas.png> <./sepicformulas.png> <./cukformulas.png>]
-(cheatsheet.aux) ) 
+pull_someformulas.png> <./sepicformulas.png> <./cukformulas.png> <./fullandhalf
+inout.png>] (cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 2576 strings out of 493312
- 35694 string characters out of 3138899
+ 2581 strings out of 493312
+ 35813 string characters out of 3138899
  104994 words of memory out of 3000000
- 6102 multiletter control sequences out of 15000+200000
+ 6106 multiletter control sequences out of 15000+200000
  5958 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,28p,279b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb>
-Output written on cheatsheet.pdf (1 page, 253976 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on cheatsheet.pdf (1 page, 261794 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
