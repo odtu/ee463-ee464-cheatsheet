@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  15 APR 2018 12:31
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -253,89 +253,76 @@ G,.JBIG2,.JB2,.eps]
 <Fourier.png, id=1, 676.02562pt x 253.69781pt>
 File: Fourier.png Graphic file (type png)
 <use Fourier.png>
-Package pdftex.def Info: Fourier.png  used on input line 32. on input line 32.
+Package pdftex.def Info: Fourier.png  used on input line 45. on input line 45.
 Package pdftex.def Info: Requested size: 202.80925pt x 76.10992pt on input line
- 32.
+ 45.
 <flybak_switch.png, id=2, 599.23875pt x 370.38374pt>
 File: flybak_switch.png Graphic file (type png)
 <use flybak_switch.png>
-Package pdftex.def Info: flybak_switch.png  used on input line 38. on input lin
-e 38.
+Package pdftex.def Info: flybak_switch.png  used on input line 51. on input lin
+e 51.
 Package pdftex.def Info: Requested size: 179.77301pt x 111.11597pt on input lin
-e 38.
-<bipolar1.png, id=4, 613.29124pt x 507.8975pt>
-File: bipolar1.png Graphic file (type png)
-<use bipolar1.png>
-Package pdftex.def Info: bipolar1.png  used on input line 44. on input line 44.
-
-Package pdftex.def Info: Requested size: 180.67603pt x 72.26764pt on input line
- 44.
-<unipolar1.png, id=5, 804.00375pt x 486.81876pt>
-File: unipolar1.png Graphic file (type png)
-<use unipolar1.png>
-Package pdftex.def Info: unipolar1.png  used on input line 48. on input line 48
-.
-Package pdftex.def Info: Requested size: 180.67221pt x 72.26941pt on input line
- 48.
-<flybackformulasfromhart.png, id=6, 475.7775pt x 341.02406pt>
+e 51.
+<flybackformulasfromhart.png, id=4, 475.7775pt x 341.02406pt>
 File: flybackformulasfromhart.png Graphic file (type png)
 <use flybackformulasfromhart.png>
-Package pdftex.def Info: flybackformulasfromhart.png  used on input line 53. on
- input line 53.
+Package pdftex.def Info: flybackformulasfromhart.png  used on input line 67. on
+ input line 67.
 Package pdftex.def Info: Requested size: 202.35884pt x 144.54044pt on input lin
-e 53.
-<forwardsingleswitch.png, id=7, 314.67563pt x 184.43906pt>
+e 67.
+<forwardsingleswitch.png, id=5, 314.67563pt x 184.43906pt>
 File: forwardsingleswitch.png Graphic file (type png)
 <use forwardsingleswitch.png>
-Package pdftex.def Info: forwardsingleswitch.png  used on input line 57. on inp
-ut line 57.
+Package pdftex.def Info: forwardsingleswitch.png  used on input line 71. on inp
+ut line 71.
 Package pdftex.def Info: Requested size: 144.54128pt x 93.95009pt on input line
- 57.
-<pushpull_someformulas.png, id=8, 276.28218pt x 131.74219pt>
+ 71.
+<pushpull_someformulas.png, id=6, 276.28218pt x 131.74219pt>
 File: pushpull_someformulas.png Graphic file (type png)
 <use pushpull_someformulas.png>
-Package pdftex.def Info: pushpull_someformulas.png  used on input line 61. on i
-nput line 61.
-Package pdftex.def Info: Requested size: 144.536pt x 72.27347pt on input line 6
-1.
-<sepicformulas.png, id=9, 307.90031pt x 231.86626pt>
+Package pdftex.def Info: pushpull_someformulas.png  used on input line 75. on i
+nput line 75.
+Package pdftex.def Info: Requested size: 144.536pt x 72.27347pt on input line 7
+5.
+<sepicformulas.png, id=7, 307.90031pt x 231.86626pt>
 File: sepicformulas.png Graphic file (type png)
 <use sepicformulas.png>
-Package pdftex.def Info: sepicformulas.png  used on input line 65. on input lin
-e 65.
+Package pdftex.def Info: sepicformulas.png  used on input line 79. on input lin
+e 79.
 Package pdftex.def Info: Requested size: 144.54402pt x 108.40753pt on input lin
-e 65.
-<cukformulas.png, id=10, 363.60844pt x 335.75438pt>
+e 79.
+<cukformulas.png, id=8, 363.60844pt x 335.75438pt>
 File: cukformulas.png Graphic file (type png)
 <use cukformulas.png>
-Package pdftex.def Info: cukformulas.png  used on input line 69. on input line 
-69.
+Package pdftex.def Info: cukformulas.png  used on input line 83. on input line 
+83.
 Package pdftex.def Info: Requested size: 158.99507pt x 122.85928pt on input lin
-e 69.
+e 83.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Fourier.png> <./flybak_
-switch.png> <./bipolar1.png> <./unipolar1.png> <./flybackformulasfromhart.png> 
-<./forwardsingleswitch.png> <./pushpull_someformulas.png> <./sepicformulas.png>
- <./cukformulas.png>] (cheatsheet.aux) ) 
+switch.png> <./flybackformulasfromhart.png> <./forwardsingleswitch.png> <./push
+pull_someformulas.png> <./sepicformulas.png> <./cukformulas.png>]
+(cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 2584 strings out of 493312
- 35836 string characters out of 3138899
- 103994 words of memory out of 3000000
- 6109 multiletter control sequences out of 15000+200000
- 5612 words of font info for 21 fonts, out of 3000000 for 9000
+ 2576 strings out of 493312
+ 35694 string characters out of 3138899
+ 104994 words of memory out of 3000000
+ 6102 multiletter control sequences out of 15000+200000
+ 5958 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,28p,279b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
-7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cheatsheet.pdf (1 page, 339442 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on cheatsheet.pdf (1 page, 253976 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
