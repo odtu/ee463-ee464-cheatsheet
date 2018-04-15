@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.26)  15 APR 2018 20:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.2.19)  16 APR 2018 01:12
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
 LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-("D:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Babel <3.17> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("D:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,24 +21,24 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/11/05 v2.16a AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen104
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count87
@@ -79,54 +79,46 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count99
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("D:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count100
-\Gm@cntv=\count101
-\c@Gm@tempcnt=\count102
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
 \Gm@bindingoffset=\dimen114
 \Gm@wd@mp=\dimen115
 \Gm@odd@mp=\dimen116
@@ -137,7 +129,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen121
 \Gm@dimlist=\toks20
 
-("D:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 
 Package geometry Warning: Over-specification in `h'-direction.
     `width' (483.69684pt) is ignored.
@@ -146,7 +138,9 @@ Package geometry Warning: Over-specification in `h'-direction.
 Package geometry Warning: Over-specification in `v'-direction.
     `height' (731.23582pt) is ignored.
 
-("D:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+
+("C:\Users\Hakan Polat\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.s
+ty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (cheatsheet.aux)
 \openout1 = `cheatsheet.aux'.
@@ -163,58 +157,66 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
- ("D:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Users\Hakan Polat\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mki
+i"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count103
+\scratchcounter=\count102
 \scratchdimen=\dimen122
 \scratchbox=\box28
-\nofMPsegments=\count104
-\nofMParguments=\count105
+\nofMPsegments=\count103
+\nofMParguments=\count104
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count106
+\MPscratchCnt=\count105
 \MPscratchDim=\dimen123
-\MPnumerator=\count107
-\makeMPintoPDFobject=\count108
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
 \everyMPtoPDFconversion=\toks22
-) ("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
@@ -254,97 +256,93 @@ G,.JBIG2,.JB2,.eps]
 
 <flybackformulasfromhart.png, id=1, 475.7775pt x 341.02406pt>
 File: flybackformulasfromhart.png Graphic file (type png)
-
 <use flybackformulasfromhart.png>
-Package pdftex.def Info: flybackformulasfromhart.png used on input line 48.
+Package pdftex.def Info: flybackformulasfromhart.png  used on input line 48.
 (pdftex.def)             Requested size: 202.35884pt x 130.08482pt.
-
 <forwardsingleswitch.png, id=3, 314.67563pt x 184.43906pt>
 File: forwardsingleswitch.png Graphic file (type png)
-
 <use forwardsingleswitch.png>
-Package pdftex.def Info: forwardsingleswitch.png used on input line 52.
+Package pdftex.def Info: forwardsingleswitch.png  used on input line 52.
 (pdftex.def)             Requested size: 144.54128pt x 79.4958pt.
-
 <pushpull_someformulas.png, id=4, 276.28218pt x 131.74219pt>
 File: pushpull_someformulas.png Graphic file (type png)
-
 <use pushpull_someformulas.png>
-Package pdftex.def Info: pushpull_someformulas.png used on input line 56.
+Package pdftex.def Info: pushpull_someformulas.png  used on input line 56.
 (pdftex.def)             Requested size: 144.536pt x 50.58922pt.
-
 <sepicformulas.png, id=5, 307.90031pt x 231.86626pt>
 File: sepicformulas.png Graphic file (type png)
- <use sepicformulas.png>
-Package pdftex.def Info: sepicformulas.png used on input line 68.
+<use sepicformulas.png>
+Package pdftex.def Info: sepicformulas.png  used on input line 68.
 (pdftex.def)             Requested size: 144.54402pt x 108.40753pt.
-
 <cukformulas.png, id=6, 363.60844pt x 335.75438pt>
 File: cukformulas.png Graphic file (type png)
- <use cukformulas.png>
-Package pdftex.def Info: cukformulas.png used on input line 72.
+<use cukformulas.png>
+Package pdftex.def Info: cukformulas.png  used on input line 72.
 (pdftex.def)             Requested size: 158.99507pt x 122.85928pt.
-
 <flybak_switch.png, id=7, 599.23875pt x 370.38374pt>
 File: flybak_switch.png Graphic file (type png)
- <use flybak_switch.png>
-Package pdftex.def Info: flybak_switch.png used on input line 77.
+<use flybak_switch.png>
+Package pdftex.def Info: flybak_switch.png  used on input line 77.
 (pdftex.def)             Requested size: 144.53343pt x 72.26692pt.
-
 <fullandhalfinout.png, id=8, 250.68657pt x 88.83188pt>
 File: fullandhalfinout.png Graphic file (type png)
-
 <use fullandhalfinout.png>
-Package pdftex.def Info: fullandhalfinout.png used on input line 82.
+Package pdftex.def Info: fullandhalfinout.png  used on input line 82.
 (pdftex.def)             Requested size: 115.6347pt x 43.36398pt.
-
 <RmsVoltageofHarmonicsFullBridgeInverter.png, id=9, 204.01219pt x 35.38219pt>
 File: RmsVoltageofHarmonicsFullBridgeInverter.png Graphic file (type png)
-
 <use RmsVoltageofHarmonicsFullBridgeInverter.png>
-Package pdftex.def Info: RmsVoltageofHarmonicsFullBridgeInverter.png used on in
-put line 104.
+Package pdftex.def Info: RmsVoltageofHarmonicsFullBridgeInverter.png  used on i
+nput line 104.
 (pdftex.def)             Requested size: 166.22955pt x 18.06789pt.
-
 <bipolar1.png, id=10, 613.29124pt x 507.8975pt>
 File: bipolar1.png Graphic file (type png)
- <use bipolar1.png>
-Package pdftex.def Info: bipolar1.png used on input line 108.
+<use bipolar1.png>
+Package pdftex.def Info: bipolar1.png  used on input line 108.
 (pdftex.def)             Requested size: 180.67603pt x 72.26764pt.
-
 <unipolar1.png, id=11, 804.00375pt x 486.81876pt>
 File: unipolar1.png Graphic file (type png)
- <use unipolar1.png>
-Package pdftex.def Info: unipolar1.png used on input line 112.
+<use unipolar1.png>
+Package pdftex.def Info: unipolar1.png  used on input line 112.
 (pdftex.def)             Requested size: 180.67221pt x 72.26941pt.
- [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./flybackformulasfromhart
-.png> <./forwardsingleswitch.png> <./pushpull_someformulas.png> <./sepicformula
-s.png> <./cukformulas.png> <./flybak_switch.png> <./fullandhalfinout.png> <./Rm
-sVoltageofHarmonicsFullBridgeInverter.png> <./bipolar1.png> <./unipolar1.png>]
-(cheatsheet.aux) ) 
+LaTeX Warning: File `Small Signal.png' not found on input line 131.
+
+<Small Signal.png, id=12, 883.80188pt x 1178.90437pt>
+File: Small Signal.png Graphic file (type png)
+<use Small Signal.png>
+Package pdftex.def Info: Small Signal.png  used on input line 131.
+(pdftex.def)             Requested size: 158.98306pt x 122.84421pt.
+[1
+
+{C:/Users/Hakan Polat/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fly
+backformulasfromhart.png> <./forwardsingleswitch.png> <./pushpull_someformulas.
+png> <./sepicformulas.png> <./cukformulas.png> <./flybak_switch.png> <./fulland
+halfinout.png> <./RmsVoltageofHarmonicsFullBridgeInverter.png> <./bipolar1.png>
+ <./unipolar1.png>] [2
+
+ <./Small Signal.png>] (cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 2660 strings out of 493323
- 36840 string characters out of 3139065
- 111223 words of memory out of 3000000
- 6166 multiletter control sequences out of 15000+200000
+ 2614 strings out of 493303
+ 36437 string characters out of 3138836
+ 107438 words of memory out of 3000000
+ 6133 multiletter control sequences out of 15000+200000
  8313 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,28p,238b,229s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mbx10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb
-><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><D:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><D:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr6.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr9.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy9.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmti9.pfb>
-Output written on cheatsheet.pdf (1 page, 378173 bytes).
+ 41i,5n,28p,279b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cmextra/cmex9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmti9.pfb>
+Output written on cheatsheet.pdf (2 pages, 486820 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
