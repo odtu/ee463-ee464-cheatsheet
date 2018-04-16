@@ -37,6 +37,8 @@ True Power Factor=\frac{P}{S}=DPF \frac{I_{1,RMS}}{I_{RMS}}
 THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 \end{equation*}
 
+Voltages on inductors during on-off times(for ease of waveform drawing) Buck:(Vd-Vo):-Vo;Boost:Vd:-(Vo-Vd); BuckBoost:Vd:-Vo
+
 %\begin{figure}[!ht]
 %	\includegraphics[width=2.5in,height=1in]{fouriert.png}
 %	\caption{Fourier Transform Table}
@@ -127,14 +129,16 @@ V_{rms}=\frac{2\pi}{\sqrt{2}}.N_{2}.f.B_{max}.A
 
 \subsection*{\small Signal Analysis}
  \begin{figure}[!ht]
-	\includegraphics[width=2.2in,height=1.7in]{Small_Signal.png}
+	\includegraphics[width=5cm,height=5cm]{Small_Signal.png}
 \end{figure}
 \begin{equation*}
 I_{o}=I_{lm}(1-D) 
-\hspace{1cm}
+\hspace{0.2cm}
 I_{s}=I_{lm}(D)
+\hspace{0.2cm}
+At SS: AX+BV_{d}=0
 \end{equation*}
-
+For analysis, first derive generalstate space for on and off ccts, then decide which matrices are needed and which are 0. Cct analysis and derive matrices
 \begin{table}[H]
 \centering
 \begin{tabular}{lllll}
@@ -145,7 +149,7 @@ I_{s}=I_{lm}(D)
     Half B. & $V_{d,max}$ & $\sqrt2 I_{o,max}$ & $\dfrac{4}{\pi \sqrt2} \dfrac{V_{d,max}}{2}$ & 2 \\
     Full B. & $V_{d,max}$ & $\sqrt2 I_{o,max}$ & $\dfrac{4}{\pi \sqrt2} V_{d,max}$ & 4 \\
  \end{tabular}   
-  \caption{Swith Utilization doesnt change for n:1 trans. ratio}
+  \caption{Swith Utilization doesnt change($1/2\pi$) for n:1 trans. ratio and in linear region scaled by $(m_{a}\pi)/4 $}
   
 \end{table}
 
