@@ -1,6 +1,7 @@
 \documentclass[twocolumn, ]{article}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{float}
 
 \usepackage{geometry}
  \geometry{
@@ -120,8 +121,6 @@ Vc1=Vo+Vd
 
 
 
-
-
 \begin{equation}
 V_{rms}=\frac{2\pi}{\sqrt{2}}.N_{2}.f.B_{max}.A
 \end{equation}
@@ -136,8 +135,19 @@ I_{o}=I_{lm}(1-D)
 I_{s}=I_{lm}(D)
 \end{equation*}
 
+\begin{table}[H]
+\centering
+\begin{tabular}{lllll}
+    Topology & $V_{sw}$ & $I_{sw}$ & $V_{01,max}$ & q \\
+    \hline
 
-
+    Push Pull & $2V_{d,max}$ & $\sqrt2 \dfrac{I_{o,max}}{n}$ & $\dfrac{4}{\pi \sqrt2} \dfrac{V_{d,max}}{n}$ & 2 \\
+    Half B. & $V_{d,max}$ & $\sqrt2 I_{o,max}$ & $\dfrac{4}{\pi \sqrt2} \dfrac{V_{d,max}}{2}$ & 2 \\
+    Full B. & $V_{d,max}$ & $\sqrt2 I_{o,max}$ & $\dfrac{4}{\pi \sqrt2} V_{d,max}$ & 4 \\
+ \end{tabular}   
+  \caption{Swith Utilization doesnt change for n:1 trans. ratio}
+  
+\end{table}
 
 
 
