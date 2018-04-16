@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  16 APR 2018 01:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  16 APR 2018 05:05
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -271,19 +271,19 @@ Package pdftex.def Info: pushpull_someformulas.png  used on input line 56. on i
 nput line 56.
 Package pdftex.def Info: Requested size: 144.536pt x 50.58922pt on input line 5
 6.
-<sepicformulas.png, id=5, 307.90031pt x 231.86626pt>
+<sepicformulas.png, id=5, 307.90031pt x 248.42813pt>
 File: sepicformulas.png Graphic file (type png)
 <use sepicformulas.png>
 Package pdftex.def Info: sepicformulas.png  used on input line 68. on input lin
 e 68.
-Package pdftex.def Info: Requested size: 144.54402pt x 108.40753pt on input lin
+Package pdftex.def Info: Requested size: 144.54402pt x 108.40652pt on input lin
 e 68.
-<cukformulas.png, id=6, 363.60844pt x 335.75438pt>
+<cukformulas.png, id=6, 384.6872pt x 335.75438pt>
 File: cukformulas.png Graphic file (type png)
 <use cukformulas.png>
 Package pdftex.def Info: cukformulas.png  used on input line 72. on input line 
 72.
-Package pdftex.def Info: Requested size: 158.99507pt x 122.85928pt on input lin
+Package pdftex.def Info: Requested size: 158.99652pt x 122.85928pt on input lin
 e 72.
 <flybak_switch.png, id=7, 599.23875pt x 370.38374pt>
 File: flybak_switch.png Graphic file (type png)
@@ -341,9 +341,9 @@ onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmti9.pfb>
-Output written on cheatsheet.pdf (1 page, 385121 bytes).
+Output written on cheatsheet.pdf (1 page, 391336 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
