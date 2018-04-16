@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.25)  16 APR 2018 13:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.8.25)  16 APR 2018 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -263,101 +263,116 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+Underfull \hbox (badness 1009) in paragraph at lines 40--42
+\OT1/cmr/m/n/9 draw-ing) Buck:(Vd-Vo):-Vo;Boost:Vd:-(Vo-Vd); BuckBoost:Vd:-Vo
+ []
+
 <flybackformulasfromhart.png, id=1, 475.7775pt x 352.31625pt>
 File: flybackformulasfromhart.png Graphic file (type png)
 <use flybackformulasfromhart.png>
-Package pdftex.def Info: flybackformulasfromhart.png  used on input line 51. on
- input line 51.
-Package pdftex.def Info: Requested size: 202.35884pt x 130.08617pt on input lin
-e 51.
+Package pdftex.def Info: flybackformulasfromhart.png  used on input line 52. on
+ input line 52.
+Package pdftex.def Info: Requested size: 216.81303pt x 130.08617pt on input lin
+e 52.
 <forwardsingleswitch.png, id=3, 389.20406pt x 184.43906pt>
 File: forwardsingleswitch.png Graphic file (type png)
 <use forwardsingleswitch.png>
-Package pdftex.def Info: forwardsingleswitch.png  used on input line 55. on inp
-ut line 55.
-Package pdftex.def Info: Requested size: 144.54367pt x 79.4958pt on input line 
-55.
+Package pdftex.def Info: forwardsingleswitch.png  used on input line 56. on inp
+ut line 56.
+Package pdftex.def Info: Requested size: 216.81848pt x 79.4958pt on input line 
+56.
 <pushpull_someformulas.png, id=4, 333.49594pt x 131.74219pt>
 File: pushpull_someformulas.png Graphic file (type png)
 <use pushpull_someformulas.png>
-Package pdftex.def Info: pushpull_someformulas.png  used on input line 59. on i
-nput line 59.
-Package pdftex.def Info: Requested size: 144.54033pt x 50.58922pt on input line
- 59.
+Package pdftex.def Info: pushpull_someformulas.png  used on input line 60. on i
+nput line 60.
+Package pdftex.def Info: Requested size: 216.81558pt x 50.58922pt on input line
+ 60.
 <sepicformulas.png, id=5, 307.90031pt x 248.42813pt>
 File: sepicformulas.png Graphic file (type png)
 <use sepicformulas.png>
-Package pdftex.def Info: sepicformulas.png  used on input line 71. on input lin
-e 71.
+Package pdftex.def Info: sepicformulas.png  used on input line 72. on input lin
+e 72.
 Package pdftex.def Info: Requested size: 144.54402pt x 108.40652pt on input lin
-e 71.
+e 72.
 <cukformulas.png, id=6, 384.6872pt x 335.75438pt>
 File: cukformulas.png Graphic file (type png)
 <use cukformulas.png>
-Package pdftex.def Info: cukformulas.png  used on input line 75. on input line 
-75.
+Package pdftex.def Info: cukformulas.png  used on input line 76. on input line 
+76.
 Package pdftex.def Info: Requested size: 158.99652pt x 122.85928pt on input lin
-e 75.
+e 76.
 <flybak_switch.png, id=7, 599.23875pt x 370.38374pt>
 File: flybak_switch.png Graphic file (type png)
 <use flybak_switch.png>
-Package pdftex.def Info: flybak_switch.png  used on input line 80. on input lin
-e 80.
+Package pdftex.def Info: flybak_switch.png  used on input line 81. on input lin
+e 81.
 Package pdftex.def Info: Requested size: 144.53343pt x 72.26692pt on input line
- 80.
+ 81.
 <fullandhalfinout.png, id=8, 250.68657pt x 88.83188pt>
 File: fullandhalfinout.png Graphic file (type png)
 <use fullandhalfinout.png>
-Package pdftex.def Info: fullandhalfinout.png  used on input line 85. on input 
-line 85.
+Package pdftex.def Info: fullandhalfinout.png  used on input line 86. on input 
+line 86.
 Package pdftex.def Info: Requested size: 115.6347pt x 43.36398pt on input line 
-85.
+86.
 <RmsVoltageofHarmonicsFullBridgeInverter.png, id=9, 204.01219pt x 35.38219pt>
 File: RmsVoltageofHarmonicsFullBridgeInverter.png Graphic file (type png)
 <use RmsVoltageofHarmonicsFullBridgeInverter.png>
 Package pdftex.def Info: RmsVoltageofHarmonicsFullBridgeInverter.png  used on i
-nput line 107. on input line 107.
+nput line 108. on input line 108.
 Package pdftex.def Info: Requested size: 166.22955pt x 18.06789pt on input line
- 107.
-<Small_Signal.png, id=10, 883.80188pt x 1178.90437pt>
-File: Small_Signal.png Graphic file (type png)
-<use Small_Signal.png>
-Package pdftex.def Info: Small_Signal.png  used on input line 132. on input lin
-e 132.
-Package pdftex.def Info: Requested size: 142.26079pt x 142.25392pt on input lin
-e 132.
+ 108.
+<ss1.png, id=10, 383.93437pt x 274.02374pt>
+File: ss1.png Graphic file (type png)
+<use ss1.png>
+Package pdftex.def Info: ss1.png  used on input line 133. on input line 133.
+Package pdftex.def Info: Requested size: 138.21626pt x 98.64847pt on input line
+ 133.
+<ss2.png, id=11, 442.65375pt x 327.47343pt>
+File: ss2.png Graphic file (type png)
+<use ss2.png>
+Package pdftex.def Info: ss2.png  used on input line 135. on input line 135.
+Package pdftex.def Info: Requested size: 150.50027pt x 111.3395pt on input line
+ 135.
+
+Overfull \hbox (15.0561pt too wide) in paragraph at lines 133--136
+[][]   [] 
+ []
+
 [1
 
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./flybackformul
 asfromhart.png> <./forwardsingleswitch.png> <./pushpull_someformulas.png> <./se
 picformulas.png> <./cukformulas.png> <./flybak_switch.png> <./fullandhalfinout.
-png> <./RmsVoltageofHarmonicsFullBridgeInverter.png> <./Small_Signal.png>]
-(./cheatsheet.aux) ) 
+png> <./RmsVoltageofHarmonicsFullBridgeInverter.png> <./ss1.png> <./ss2.png>] (
+./cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 2665 strings out of 492990
- 36849 string characters out of 6136334
- 108734 words of memory out of 5000000
- 6187 multiletter control sequences out of 15000+600000
+ 2670 strings out of 492990
+ 36858 string characters out of 6136334
+ 109734 words of memory out of 5000000
+ 6191 multiletter control sequences out of 15000+600000
  8540 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,12n,28p,279b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
-><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><c:/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2
-017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2017/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2017/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2017/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
-pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2017/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on cheatsheet.pdf (1 page, 440138 bytes).
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb>
+<c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><c:/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2017/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><c:/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2017/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on cheatsheet.pdf (1 page, 395253 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

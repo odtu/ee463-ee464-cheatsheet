@@ -13,7 +13,7 @@ bottom=5 mm,
  top=5mm,
  }
  \usepackage{setspace}
-\setstretch{0.3}
+\setstretch{0.1}
 
 \begin{document}
 
@@ -38,6 +38,7 @@ THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
 \end{equation*}
 
 Voltages on inductors during on-off times(for ease of waveform drawing) Buck:(Vd-Vo):-Vo;Boost:Vd:-(Vo-Vd); BuckBoost:Vd:-Vo
+{Cuk,SEPIC,Flyback:Buck-Boost Topologies;Cuk in-out filter,SEPIC + polarity and energy transfer sharing}
 
 %\begin{figure}[!ht]
 %	\includegraphics[width=2.5in,height=1in]{fouriert.png}
@@ -48,15 +49,15 @@ Voltages on inductors during on-off times(for ease of waveform drawing) Buck:(Vd
 \subsubsection*{Converters}
 
 \begin{figure}[!ht]
-	\includegraphics[width=2.8in,height=1.8in]{flybackformulasfromhart.png}
+	\includegraphics[width=3in,height=1.8in]{flybackformulasfromhart.png}
 	\caption{Flyback Formulas}
 \end{figure}
 \begin{figure}[!ht]
-	\includegraphics[width=2in,height=1.1in]{forwardsingleswitch.png}
+	\includegraphics[width=3in,height=1.1in]{forwardsingleswitch.png}
 	\caption{Forward (single switched) Converter Formulas}
 \end{figure}
 \begin{figure}[!ht]
-	\includegraphics[width=2in,height=0.7in]{pushpull_someformulas.png}
+	\includegraphics[width=3in,height=0.7in]{pushpull_someformulas.png}
 	\caption{Push Pull Formulas}
 \end{figure}
 
@@ -129,7 +130,9 @@ V_{rms}=\frac{2\pi}{\sqrt{2}}.N_{2}.f.B_{max}.A
 
 \subsection*{\small Signal Analysis}
  \begin{figure}[!ht]
-	\includegraphics[width=5cm,height=5cm]{Small_Signal.png}
+	\includegraphics[scale=0.36]{ss1}
+\hspace{0.05 cm}
+	\includegraphics[scale=0.34]{ss2}
 \end{figure}
 \begin{equation*}
 I_{o}=I_{lm}(1-D) 
