@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  16 APR 2018 05:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.15)  16 APR 2018 05:50
 entering extended mode
 **./cheatsheet.tex
 (cheatsheet.tex
@@ -257,20 +257,20 @@ Package pdftex.def Info: flybackformulasfromhart.png  used on input line 48. on
  input line 48.
 Package pdftex.def Info: Requested size: 202.35884pt x 130.08617pt on input lin
 e 48.
-<forwardsingleswitch.png, id=3, 314.67563pt x 184.43906pt>
+<forwardsingleswitch.png, id=3, 389.20406pt x 184.43906pt>
 File: forwardsingleswitch.png Graphic file (type png)
 <use forwardsingleswitch.png>
 Package pdftex.def Info: forwardsingleswitch.png  used on input line 52. on inp
 ut line 52.
-Package pdftex.def Info: Requested size: 144.54128pt x 79.4958pt on input line 
+Package pdftex.def Info: Requested size: 144.54367pt x 79.4958pt on input line 
 52.
-<pushpull_someformulas.png, id=4, 276.28218pt x 131.74219pt>
+<pushpull_someformulas.png, id=4, 333.49594pt x 131.74219pt>
 File: pushpull_someformulas.png Graphic file (type png)
 <use pushpull_someformulas.png>
 Package pdftex.def Info: pushpull_someformulas.png  used on input line 56. on i
 nput line 56.
-Package pdftex.def Info: Requested size: 144.536pt x 50.58922pt on input line 5
-6.
+Package pdftex.def Info: Requested size: 144.54033pt x 50.58922pt on input line
+ 56.
 <sepicformulas.png, id=5, 307.90031pt x 248.42813pt>
 File: sepicformulas.png Graphic file (type png)
 <use sepicformulas.png>
@@ -341,9 +341,9 @@ onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmti9.pfb>
-Output written on cheatsheet.pdf (1 page, 399161 bytes).
+Output written on cheatsheet.pdf (1 page, 407247 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
