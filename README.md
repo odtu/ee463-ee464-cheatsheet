@@ -1,7 +1,5 @@
 # EE463 Cheat Sheet (2018 Midterm)
 
-Important: Please use ee463-mt1 branch when editing!
- 
 This repo holds the [LaTeX](https://www.latex-project.org/) document that you will use as a cheatsheet in the exam.
 You are free to modify the cheatsheet as you wish, and all students are encouraged to contribute. 
 
