@@ -1,13 +1,13 @@
-# EE463 Cheat Sheet (2018 Midterm)
+# EE463 Cheat Sheet (2019 Midterm)
 
-This repo holds the [LaTeX](https://www.latex-project.org/) document that you will use as a cheatsheet in the exam.
-You are free to modify the cheatsheet as you wish, and all students are encouraged to contribute. 
+This repo holds the [LaTeX](https://www.latex-project.org/) document that you will use as a cheat-sheet in the exam.
+You are free to modify the cheat-sheet as you wish, and all students are encouraged to contribute. 
 
 Here are a few rules:
 
 - All students will use the same cheat sheet. No other documents will be allowed.
 - Cheat sheet will be one page (single side) A-4 document.
-- The latest version of the .tex file in the default "ee463-mt1" branch will be compiled at 17:00, Tuesday 27th of November, and the first page of the PDF output will be distributed in the exam. 
+- The latest version of the .tex file in the default "ee463-mt1" branch will be compiled at 17:00, Tuesday 19th of November, and the first page of the PDF output will be distributed in the exam. 
 
 A few hints:
 
