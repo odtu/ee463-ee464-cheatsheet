@@ -46,6 +46,7 @@ bottom=5 mm,
 \textstyle \textrm{Flux Linkage}=\lambda=N\phi & \textstyle \mathcal{F}=\Phi R  = NI & \textstyle B = \mu H \\
 \textstyle B = \frac{\Phi}{A} & \textstyle L=\frac{N\phi}{I} = N^2 /\mathcal{R} & \textstyle L=\frac{\lambda}{I}\\
 \textstyle N B A = \Phi N = \lambda & \textstyle \mathcal{R}=\frac{l}{\mu A} & E = \frac{1}{2} \frac{B^2}{\mu} = \frac{1}{2} L I^2\\
+\textstyle \Delta Q = I t & \textstyle \Delta V =  \frac{\Delta Q}{C} & \int H dl = NI\\
 \end{array}
 \end{equation*}
 
@@ -100,6 +101,51 @@ bottom=5 mm,
 \end{array}}
 \end{equation}
 
+
+
+\vspace*{0.5em}
+\begin{equation}
+{\setstretch{2}
+\hspace{-1.48cm}
+\begin{array}{r|c}
+{\begin{turn}{90}\hspace{-2em}\textbf{Ćuk} \end{turn}} \hspace{-0.05cm} & \hspace{-0.15cm}
+{\begin{array}{l}
+\begin{array}{c  c  c}
+\textrm{\footnotesize $\displaystyle  \frac{V_o}{V_s} = \frac{D}{1-D}$}\hfill &\vline \hfill \textrm{\footnotesize $\displaystyle  \frac{\Delta V_o}{V_o} = \frac{1-D}{8L_2C_2f^2} $} \hfill&\vline\hfill \textrm{\footnotesize $ \displaystyle    \Delta V_{C_1} \approx \frac{V_o D}{R C_1 f}$}\nonumber \hfill \\
+\end{array}\\
+\textrm{\footnotesize $\displaystyle \hfill\Delta I_{L_1} = \frac{V_sDT}{L_1}$} \hfill \vline \hfill\textrm{\footnotesize $\displaystyle \Delta I_{L_2} = \frac{V_sDT}{L_2}$}\hfill\\
+\textrm{\footnotesize $\displaystyle \hfill L_{1,min} = \frac{(1-D)^2R}{2Df}$} \hfill \vline \hfill\textrm{\footnotesize $\displaystyle L_{2,min} = \frac{(1-D)R}{2f}$}\hfill\\
+\textrm{\footnotesize $\displaystyle \hfill \Delta V_{C_1} \approx \frac{1}{C_1} \int_{DT}^{T} I_{L_1} dt = \frac{I_{L_1}}{C_1}(1-D)T = \frac{V_s}{RC_1f}\frac{D^2}{1-D}$}\hfill\\
+\end{array}}
+\end{array}}
+\end{equation}
+
+
+
+% \vspace*{-0.4cm}
+% \subsubsection*{Converters}
+% \vspace*{-0.2cm}
+% \begin{equation}
+% {\setstretch{2}
+% \begin{array}{c|c}
+% {\begin{turn}{90}\hspace{-2em}\textbf{Ćuk} \end{turn}} \hspace{-0.1cm} & \hspace{-0.2cm}
+% {\begin{array}{l}
+% \begin{array}{r  c  c}
+% \textrm{\footnotesize $\displaystyle  \frac{V_o}{V_s} = \frac{D}{1-D}$}\hfill &\vline \hfill \textrm{\footnotesize $\displaystyle  \frac{\Delta V_o}{V_o} = \frac{1-D}{8L_2C_2f^2} $} \hfill&\vline\hfill \textrm{\footnotesize $ \displaystyle    \Delta V_{C_1} \approx \frac{V_o D}{R C_1 f}$}\nonumber \hfill \\
+% \end{array}\\
+% \textrm{\footnotesize $\displaystyle \hat{V}_{sw} = V_s + \frac{N_1}{N_2}V_o= \frac{V_s}{(1-D)}$} \hfill \vline \hfill \textrm{\footnotesize $\displaystyle I_{L_{m}} = \frac{V_sD}{(1-D)^2R}\frac{N_2}{N_1}^2\pm \displaystyle \frac{V_sDT}{2L_m}$}\hfill\\
+% \textrm{\footnotesize $\displaystyle \hat{I}_{sw} = \frac{1}{(1-D)}\frac{N_2}{N_1} I_o+\displaystyle \frac{N_1}{N_2}\frac{(1-D T_s)}{2L_m}V_o$\vspace{0.4cm}}\\
+% \end{array}}
+% \end{array}}
+% \end{equation}
+
+
+% \begin{figure}[!ht]
+% 	\includegraphics[width= 1\textwidth]{max_sw.png}
+% 	% \caption{Maximum}
+% \end{figure}
+
+
 %\begin{figure}[!ht]
 %	\includegraphics[width=2.5in,height=1in]{fouriert.png}
 %	\caption{Fourier Transform Table}
@@ -129,10 +175,11 @@ bottom=5 mm,
 	\includegraphics[width=2in,height=1.5in]{sepicformulas.png}
 	\caption{Sepic Converter Formulas}
 \end{figure}
-\begin{figure}[!ht]
-	\includegraphics[width=2.2in,height=1.7in]{cukformulas.png}
-	\caption{Cuk Converter Formulas}
-\end{figure}
+
+% \begin{figure}[!ht]
+% 	\includegraphics[width=2.2in,height=1.7in]{cukformulas.png}
+% 	\caption{Cuk Converter Formulas}
+% \end{figure}
 
   \begin{figure}[!ht]
 	\includegraphics[width=2in,height=1in]{flybak_switch}
@@ -175,16 +222,9 @@ bottom=5 mm,
 %	\caption{Unipolar switching}
 %\end{figure}
 
-\subsection*{\small Cuk Converter}
-\small
-\begin{equation}
-Vc1=Vo+Vd
-\end{equation}
-
-\begin{equation}
-V_{rms}=\frac{2\pi}{\sqrt{2}}.N_{2}.f.B_{max}.A
-\end{equation}
-
+% \begin{equation}
+% V_{rms}=\frac{2\pi}{\sqrt{2}}.N_{2}.f.B_{max}.A
+% \end{equation}
 
 
 % Current Source Converter:
@@ -195,20 +235,20 @@ V_{rms}=\frac{2\pi}{\sqrt{2}}.N_{2}.f.B_{max}.A
 
 
 
-\subsection*{\small Signal Analysis}
- \begin{figure}[!ht]
-	\includegraphics[scale=0.36]{ss1}
-\hspace{0.05 cm}
-	\includegraphics[scale=0.34]{ss2}
-\end{figure}
-\begin{equation*}
-I_{o}=I_{lm}(1-D) 
-\hspace{0.2cm}
-I_{s}=I_{lm}(D)
-\hspace{0.2cm}
-At SS: AX+BV_{d}=0
-\end{equation*}
-For analysis, first derive generalstate space for on and off ccts, then decide which matrices are needed and which are 0. Cct analysis and derive matrices
+% \subsection*{\small Signal Analysis}
+%  \begin{figure}[!ht]
+% 	\includegraphics[scale=0.36]{ss1}
+% \hspace{0.05 cm}
+% 	\includegraphics[scale=0.34]{ss2}
+% \end{figure}
+% \begin{equation*}
+% I_{o}=I_{lm}(1-D) 
+% \hspace{0.2cm}
+% I_{s}=I_{lm}(D)
+% \hspace{0.2cm}
+% At SS: AX+BV_{d}=0
+% \end{equation*}
+% For analysis, first derive generalstate space for on and off ccts, then decide which matrices are needed and which are 0. Cct analysis and derive matrices
 
 
 \begin{table}[H]

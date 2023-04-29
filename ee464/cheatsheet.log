@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.5)  29 APR 2023 02:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.5)  29 APR 2023 11:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -226,84 +226,67 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 56.
+LaTeX Font Warning: Command \small invalid in math mode on input line 57.
 
 
-Overfull \hbox (17.87871pt too wide) detected at line 68
+Overfull \hbox (17.87871pt too wide) detected at line 69
 [][]
  []
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 73.
+LaTeX Font Warning: Command \small invalid in math mode on input line 74.
 
 
-LaTeX Font Warning: Command \small invalid in math mode on input line 90.
+LaTeX Font Warning: Command \small invalid in math mode on input line 91.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 108.
 
 <sepic_and_cuk_schematic.png, id=1, 487.8225pt x 497.86pt>
 File: sepic_and_cuk_schematic.png Graphic file (type png)
 <use sepic_and_cuk_schematic.png>
-Package pdftex.def Info: sepic_and_cuk_schematic.png  used on input line 124.
+Package pdftex.def Info: sepic_and_cuk_schematic.png  used on input line 170.
 (pdftex.def)             Requested size: 180.67758pt x 122.85419pt.
 <sepicformulas.png, id=2, 307.90031pt x 248.42813pt>
 File: sepicformulas.png Graphic file (type png)
 <use sepicformulas.png>
-Package pdftex.def Info: sepicformulas.png  used on input line 129.
+Package pdftex.def Info: sepicformulas.png  used on input line 175.
 (pdftex.def)             Requested size: 144.54402pt x 108.40652pt.
-<cukformulas.png, id=4, 384.6872pt x 335.75438pt>
-File: cukformulas.png Graphic file (type png)
-<use cukformulas.png>
-Package pdftex.def Info: cukformulas.png  used on input line 133.
-(pdftex.def)             Requested size: 158.99652pt x 122.85928pt.
-<flybak_switch.png, id=5, 599.23875pt x 370.38374pt>
+<flybak_switch.png, id=4, 599.23875pt x 370.38374pt>
 File: flybak_switch.png Graphic file (type png)
 <use flybak_switch.png>
-Package pdftex.def Info: flybak_switch.png  used on input line 138.
+Package pdftex.def Info: flybak_switch.png  used on input line 185.
 (pdftex.def)             Requested size: 144.53343pt x 72.26692pt.
-<fullandhalfinout.png, id=6, 250.68657pt x 88.83188pt>
+<fullandhalfinout.png, id=5, 250.68657pt x 88.83188pt>
 File: fullandhalfinout.png Graphic file (type png)
 <use fullandhalfinout.png>
-Package pdftex.def Info: fullandhalfinout.png  used on input line 143.
+Package pdftex.def Info: fullandhalfinout.png  used on input line 190.
 (pdftex.def)             Requested size: 115.6347pt x 43.36398pt.
-<bipolar1.png, id=7, 613.29124pt x 507.8975pt>
+<bipolar1.png, id=6, 613.29124pt x 507.8975pt>
 File: bipolar1.png Graphic file (type png)
 <use bipolar1.png>
-Package pdftex.def Info: bipolar1.png  used on input line 148.
+Package pdftex.def Info: bipolar1.png  used on input line 195.
 (pdftex.def)             Requested size: 180.67603pt x 43.36058pt.
-<unipolar1.png, id=8, 804.00375pt x 486.81876pt>
+<unipolar1.png, id=7, 804.00375pt x 486.81876pt>
 File: unipolar1.png Graphic file (type png)
 <use unipolar1.png>
-Package pdftex.def Info: unipolar1.png  used on input line 153.
+Package pdftex.def Info: unipolar1.png  used on input line 200.
 (pdftex.def)             Requested size: 180.67221pt x 43.35867pt.
-<ss1.png, id=9, 383.93437pt x 274.02374pt>
-File: ss1.png Graphic file (type png)
-<use ss1.png>
-Package pdftex.def Info: ss1.png  used on input line 200.
-(pdftex.def)             Requested size: 138.21626pt x 98.64847pt.
-<ss2.png, id=10, 442.65375pt x 327.47343pt>
-File: ss2.png Graphic file (type png)
-<use ss2.png>
-Package pdftex.def Info: ss2.png  used on input line 202.
-(pdftex.def)             Requested size: 150.50027pt x 111.3395pt.
-
-Overfull \hbox (15.0561pt too wide) in paragraph at lines 200--203
-[][]   [] 
- []
-
 [1
 
-{C:/Users/ozgur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./sepic_and_cuk_schematic.png> <./sepicformulas.png> <./cukformulas.png> <./flybak_switch.png> <./fullandhalfinout.png> <./bipolar1.png> <./unipolar1.png> <./ss1.png> <./ss2.png>] (cheatsheet.aux) ) 
+{C:/Users/ozgur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./sepic_and_cuk_schematic.png> <./sepicformulas.png> <./flybak_switch.png> <./fullandhalfinout.png> <./bipolar1.png> <./unipolar1.png>] (cheatsheet.aux) ) 
 Here is how much of TeX's memory you used:
- 2938 strings out of 476334
- 47385 string characters out of 5787972
- 1882382 words of memory out of 5000000
- 23348 multiletter control sequences out of 15000+600000
+ 2912 strings out of 476334
+ 47015 string characters out of 5787972
+ 1886382 words of memory out of 5000000
+ 23323 multiletter control sequences out of 15000+600000
  517977 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,23n,62p,420b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on cheatsheet.pdf (1 page, 486848 bytes).
+Output written on cheatsheet.pdf (1 page, 394891 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 110 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
