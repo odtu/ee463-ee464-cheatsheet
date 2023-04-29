@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1682758226 "d:/2022-23/Okul/Dersler/EE464/Midterm/ee463-cheatsheet/ee464/cheatsheet.tex" "cheatsheet.pdf" "cheatsheet" 1682758227 0
+["pdflatex"] 1682776904 "d:/2022-23/Okul/Dersler/EE464/Midterm/ee463-cheatsheet/ee464/cheatsheet.tex" "cheatsheet.pdf" "cheatsheet" 1682776905 0
   "C:/Users/ozgur/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1682670927 84186 fb563f689df077002752e2a77b332dca ""
   "C:/Users/ozgur/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1680704521 23176373 b5cfb6c2a0c3d45ceafb0e8aef465910 ""
   "C:/Users/ozgur/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -63,9 +63,9 @@
   "C:/Users/ozgur/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1673900822 30429 213676d4c7327a21d91ddaed900e7b81 ""
   "C:/Users/ozgur/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "bipolar1.png" 1682670803 51765 66b22817a11b60dfb13b7e95a3b069de ""
-  "cheatsheet.aux" 1682758227 1015 c3cba8d6a8b18963a2fd1c5ff380d8cd "pdflatex"
-  "cheatsheet.tex" 1682758224 10554 4d1b92b4dcc4a366ee93c5ecaaf5d5c2 ""
-  "d:/2022-23/Okul/Dersler/EE464/Midterm/ee463-cheatsheet/ee464/cheatsheet.tex" 1682758224 10554 4d1b92b4dcc4a366ee93c5ecaaf5d5c2 ""
+  "cheatsheet.aux" 1682776905 1015 c3cba8d6a8b18963a2fd1c5ff380d8cd "pdflatex"
+  "cheatsheet.tex" 1682776903 10547 96f97e8d7045cebf46238e3249f5be45 ""
+  "d:/2022-23/Okul/Dersler/EE464/Midterm/ee463-cheatsheet/ee464/cheatsheet.tex" 1682776903 10547 96f97e8d7045cebf46238e3249f5be45 ""
   "flybak_switch.png" 1682670804 32450 0a531cfd65a19d612ec6d1b31f9ed119 ""
   "fullandhalfinout.png" 1682670804 8597 962f5edfcfc307d666f06fca46c420a6 ""
   "sepic_and_cuk_schematic.png" 1682670804 23232 65ea7a1d5157042d63a2d6a05ee140fe ""
