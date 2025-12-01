@@ -1,0 +1,167 @@
+\documentclass[twocolumn, ]{article}
+
+\usepackage{amsmath}
+\usepackage[absolute,overlay]{textpos}
+
+\setlength{\TPHorizModule}{1mm}
+\setlength{\TPVertModule}{1mm}
+
+\usepackage{graphicx}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=5mm,
+ top=5mm,
+ right=5mm,
+ bottom=5mm
+ }
+ \usepackage{setspace}
+\setstretch{0.5}
+
+\begin{document}
+\fontsize{8}{9}\selectfont
+\section*{\small Cheat Sheet for EE463}
+\pagestyle{empty}
+\subsection*{\small Performance Parameters}
+
+\begin{equation*}
+I_{rms}=\sqrt{\frac{1}{T}\int{i^2}dt}
+\end{equation*}
+\begin{equation*}
+Crest Factor=\frac{V_{peak}}{V_{rms}}
+\end{equation*}
+\begin{equation*}
+Distortion Factor=\frac{I_{1rms}}{I_{rms}}=\dfrac{1}{\sqrt{1+THD^2}}
+\end{equation*}
+\textit{$\phi$ : phase difference between fundamentals of current and voltage}
+\begin{equation*}
+Displacement Power Factor=\cos(\phi)
+\end{equation*}
+\begin{equation*}
+True Power Factor=\frac{P}{S}=DPF \frac{I_{1,RMS}}{I_{RMS}}
+\end{equation*}
+\begin{equation*}
+THD=\sqrt{(\frac{I_{rms}}{I_{1rms}})^2-1}
+\end{equation*}
+
+
+
+\subsection*{\small Single Phase Diode Rectifier}
+
+\begin{equation*}
+	V_{av}=\dfrac{2 \sqrt{2}V_{s}} { \pi} (Full wave),V_{av}=\dfrac{ \sqrt{2}V_{s}} { \pi} (Half wave)
+\end{equation*}
+
+\textit {u: commutation period}
+
+\begin{align*}
+    \cos(u) &= 1-\dfrac{2\omega L_s I_d}{\sqrt{2} V_s} && (\text{Full wave}) \\
+    \cos(u) &= 1-\dfrac{\omega L_s I_d}{\sqrt{2} V_s} && (\text{Half wave})
+\end{align*}
+
+\begin{equation*}
+ 	A_{u} = \int_0^u V_s\sqrt{2}sin(\omega t) d \omega{t} = \omega L_s I_d
+\end{equation*}
+
+\begin{align*}
+    \text{Commutation Loss}: \dfrac{2\omega L_s I_d}{2\pi} && (\text{Full wave}) \\ 
+    \dfrac{\omega L_s I_d}{2\pi }&& (\text{Half wave})
+\end{align*}
+
+
+\begin{equation*}
+ 	I_{d,avg}= \dfrac{\int_b^f i(\theta) d \theta}{\pi}
+\end{equation*}
+
+\begin{equation*}
+ 	I_{d,short circuit} = \dfrac{V_s}{\omega L_s}
+\end{equation*}
+
+
+\subsection*{\small Three Phase  Rectifier}
+
+\begin{itemize}
+
+
+
+\item \text{\small Half Wave} 
+\begin{equation*}
+	V_{av}=\dfrac{3 \sqrt{6}V_{s}} {2 \pi} = \dfrac{3 \sqrt{2}V_{ll}} {2 \pi}
+\end{equation*}
+
+\item \text{\small Full Wave} 
+
+\textit{Full Bridge Rectifier Average Output $V_{s}$:rms value of source voltage}
+\begin{equation*}
+ 	V_{av}=\frac{3 \sqrt{6} V_{s}}{\pi }-\frac{3wL_{s}I_{d}}{\pi }
+\end{equation*}
+\end{itemize}
+
+\begin{figure}[!ht]
+	\includegraphics[scale=0.15]{Comparison of rectifiers.jpeg}
+\end{figure}
+
+\subsection*{\small Converters}
+\begin{figure}[!ht]
+	\includegraphics[scale=0.09]{convertersv2.png}
+\end{figure}
+
+
+\subsubsection*{\small Buck Converter (Step-Down)}
+\begin{align*}
+    \text{Gain:} & \quad V_o = D V_d \\
+    & \quad V_L = V_d-V_o \ (\text{On}), \quad V_L = -V_o \ (\text{Off}) \\
+    \text{Inductor Ripple:} & \quad \Delta I_L = \frac{V_o (1-D)}{L f_s} \\
+    \text{Voltage Ripple:} & \quad \frac{\Delta V_o}{V_o} = \frac{1-D}{8 L C f_s^2} \\
+    \text{CCM/DCM Boundary:} & \quad I_{LB} = \frac{\Delta I_L}{2} = \frac{D T_s (V_d)(1-D)}{2L} \\
+    \text{CCM/DCM Boundary:} & \quad L_{min} = \frac{D T_s (V_d-V_o)}{2I_{LB}} = \frac{R T_s (1-D)}{2}
+\end{align*}
+
+\subsubsection*{\small Boost Converter (Step-Up)}
+\begin{align*}
+    \text{Gain:} & \quad V_o = \frac{V_d}{1-D} \\
+    & \quad V_L = V_d \ (\text{On}), \quad V_L = V_d - V_o \ (\text{Off}) \\
+    \text{Inductor Ripple:} & \quad \Delta I_L = \frac{V_d D}{L f_s} \\
+    \text{Voltage Ripple:} & \quad \frac{\Delta V_o}{V_o} = \frac{D}{R C f_s} \\
+    \text{CCM/DCM Boundary:} & \quad I_{LB} = \frac{\Delta I_L}{2} = \frac{V_d D T_s}{2L} \\
+    \text{Min Inductance:} & \quad L_{min} = \frac{D (1-D)^2 R}{2 f_s}
+\end{align*}
+\vspace{-0.5cm}
+
+\subsubsection*{\small Buck-Boost Converter}
+
+
+\begin{align*}
+    \text{Gain:} & \quad V_o = -V_d \frac{D}{1-D} \\
+    & \quad V_L = V_d \ (\text{On}), \quad V_L = V_o \ (\text{Off}) \\
+    \text{Inductor Ripple:} & \quad \Delta I_L = \frac{V_d D}{L f_s} \\
+    \text{Voltage Ripple:} & \quad \frac{\Delta V_o}{V_o} = \frac{D}{R C f_s} \\
+    \text{CCM/DCM Boundary:} & \quad I_{LB} = \frac{\Delta I_L}{2} = \frac{V_d D T_s}{2L} \\
+    \text{Min Inductance:} & \quad L_{min} = \frac{(1-D)^2 R}{2 f_s}
+\end{align*}
+\subsubsection*{\small Cuk Converter}
+\begin{align*}
+    \text{Gain:} & \quad V_o = -V_d \frac{D}{1-D} \\
+    & \quad V_{L1} = V_d \ (\text{On}), \quad V_{L1} = V_d - V_{C1} \ (\text{Off}) \\
+    \text{Inductor Ripple ($L_1$):} & \quad \Delta I_{L1} = \frac{V_d D}{L_1 f_s} \\
+    \text{Inductor Ripple ($L_2$):} & \quad \Delta I_{L2} = \frac{V_d D}{L_2 f_s} \\
+    \text{Voltage Ripple ($C_o$):} & \quad \frac{\Delta V_o}{V_o} = \frac{1-D}{8 L_2 C_2 f_s^2} \\
+    \text{CCM/DCM Boundary:} & \quad I_{LB1} = \frac{V_d D T_s}{2 L_1} \quad (\text{for } L_1) \\
+    \text{Min Inductance ($L_1$):} & \quad L_{1,min} = \frac{(1-D)^2 R}{2 D f_s} \\
+    \text{Min Inductance ($L_2$):} & \quad L_{2,min} = \frac{(1-D) R}{2 f_s}
+\end{align*}
+    \text{Cuk Feature:} Input and Output currents are continuous (low ripple) due to inductors on both sides.
+% ---- Bottom-right corner Fourier symmetry + rectifier comparison ----
+\begin{textblock}{80}(110,225)  % width=80mm, position x=120mm, y=225mm
+\begin{center}
+\vspace{7mm}
+\includegraphics[width=85mm]{ss.png}
+
+
+
+
+\end{center}
+\end{textblock}
+    
+\end{document}
