@@ -14,7 +14,7 @@ Here are a few rules:
 
 - All students will use the same cheat sheet. No other documents will be allowed.
 - Cheat sheet will be one page (single side) A-4 document.
-- The latest version of the course's .tex file in the `master` branch will be compiled at **TBA**, and the first page of the PDF output will be distributed in the exam. 
+- The latest version of the course's .tex file in the `master` branch will be compiled **on the exam date**, and the first page of the PDF output will be distributed in the exam. 
 
 A few hints:
 
